@@ -1,22 +1,35 @@
-Sales Performance Analysis
+# Sales Performance Analysis
 
-Overview
+## Overview
+
 This Power BI project analyzes sales performance across products, regions, and time periods. The dashboard provides insights into key metrics such as total sales, profit, and growth trends to support data-driven decisions.
 
-Objectives
-•	Track overall sales and profitability
-•	Identify top-performing products and regions
-•	Compare sales performance over time
+## Objectives
 
-Tools Used
-•	Power BI Desktop
-•	Power Query
-•	DAX
+* Track overall sales and profitability
+* Identify top-performing products and regions
+* Compare sales performance over time
 
-Data Source
+## Tools Used
+
+* Power BI Desktop
+* Power Query
+* DAX
+
+## Data Source
+
 Data was imported from structured business files (Excel/CSV) containing transaction, customer, and regional details.
 
-Future Scope
-•	Integration with live sales data
-•	Predictive forecasting
-•	Advanced drill-through analytics
+## Usage
+
+1. Open `Sales_Performance_Analysis.pbix` in Power BI Desktop.
+2. Interact with visuals and filters to explore insights.
+3. Refresh data to update results when new inputs are available.
+
+## Future Scope
+
+* Integration with live sales data
+* Predictive forecasting
+* Advanced drill-through analytics
+
+---
