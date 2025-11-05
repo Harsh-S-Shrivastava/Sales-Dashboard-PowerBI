@@ -20,4 +20,3 @@ Future Scope
 •	Integration with live sales data
 •	Predictive forecasting
 •	Advanced drill-through analytics
-
