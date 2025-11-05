@@ -20,12 +20,6 @@ This Power BI project analyzes sales performance across products, regions, and t
 
 Data was imported from structured business files (Excel/CSV) containing transaction, customer, and regional details.
 
-## Usage
-
-1. Open `Sales_Performance_Analysis.pbix` in Power BI Desktop.
-2. Interact with visuals and filters to explore insights.
-3. Refresh data to update results when new inputs are available.
-
 ## Future Scope
 
 * Integration with live sales data
